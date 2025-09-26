@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a2173df5-c539-43ce-a271-6cf1f8a9e216" alt="Image" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/971f84f4-5209-47a1-b439-5eeeb6388662" alt="Image" width="356" height="200">
   <h1>Duels First Person: Secret Village</h1>
 </div>
 
