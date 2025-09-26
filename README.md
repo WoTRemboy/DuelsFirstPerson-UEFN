@@ -3,8 +3,7 @@
   <h1>Duels First Person: Secret Village</h1>
 </div>
 
-Welcome to **Duels First Person: Secret Village**, a compact and intense Fortnite UEFN map where every second counts.  
-In an abandoned village, two teams face off in relentless battles with **classic first-person duel** rules. Find in [Fortnite](https://www.fortnite.com/@hbrats/8452-2067-5724) with code 8452-2067-5724.
+Welcome to **Duels First Person: Secret Village**, a compact and intense Fortnite UEFN map where every second counts. In an abandoned village, two teams face off in relentless battles with **classic first-person duel** rules. Find in [Fortnite](https://www.fortnite.com/@hbrats/8452-2067-5724) with code 8452-2067-5724.
 
 ## Table of Contents
 
